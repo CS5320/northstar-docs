@@ -17,6 +17,15 @@ All engineering staff.
 
 Questions regarding architecture should be directed to the Architecture repository.
 
+## Documentation Priorities
+
+### TODO
+
+- [ ] Update onboarding guide
+- [ ] Refresh engineering handbook
+- [ ] Expand coding standards
+- [ ] Review Architecture Decision references
+
 ---
 
 ## Maintainers
